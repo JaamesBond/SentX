@@ -1,0 +1,24 @@
+---
+name: Detection Scenario
+about: Propose a new detection scenario for the project
+title: '[DETECTION] '
+labels: detection, enhancement
+---
+
+## Pyramid of Pain Level
+<!-- Check one: L1 Hash, L2 IP, L3 Domain, L4 Artifacts, L5 Tools, L6 TTPs -->
+
+## MITRE ATT&CK Technique(s)
+<!-- Example: T0836 (Modify Parameter) -->
+
+## Attack Scenario
+<!-- Describe the attack flow -->
+
+## Detection Logic
+<!-- How would this be detected? -->
+
+## Assets Affected
+<!-- Which RobotLab assets are targeted? -->
+
+## References
+<!-- Links to similar real-world attacks, CVEs, etc. -->
