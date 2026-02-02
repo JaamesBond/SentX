@@ -22,7 +22,4 @@ Thumbs.db
 # Project-specific
 logs/
 *.pcap
-secrets/
-
-# AI Agents
-.claude
+secrets/.claude/settings.local.json
