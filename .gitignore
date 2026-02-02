@@ -23,3 +23,6 @@ Thumbs.db
 logs/
 *.pcap
 secrets/
+
+# AI Agents
+.claude
