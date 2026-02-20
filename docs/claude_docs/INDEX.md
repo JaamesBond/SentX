@@ -8,6 +8,8 @@
 
 | Date | Agent | Change ID | Summary |
 |------|-------|-----------|---------|
+| 2026-02-20 | Master Architect | `ARCH-002` | Pyramid of Pain L1–L5 integrated: all detections mapped to Levels 1–5, L6 TTPs excluded from Pyramid scope |
+| 2026-02-20 | Master Architect | `ARCH-001` | Major revision v3.0: remove ML/AI/Pyramid of Pain, add SDN + deep packet analysis, scale to 7-person team |
 | 2026-02-02 | Setup | `INIT-002` | Created 9 individual agent configuration files |
 | 2026-02-02 | Setup | `INIT-001` | Initial documentation system setup |
 
@@ -62,9 +64,9 @@ NNN = Sequential number (001, 002, etc.)
 
 | Metric | Value |
 |--------|-------|
-| Total Changes | 2 |
-| Last Updated | 2026-02-02 |
-| Active Agents | 9 configured (Design Phase) |
+| Total Changes | 4 |
+| Last Updated | 2026-02-20 |
+| Active Agents | 8 configured (Design Phase, ML/AI removed) |
 
 ---
 
